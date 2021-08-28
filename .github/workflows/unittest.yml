@@ -22,9 +22,8 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      
-      - name: checkout
-      - uses: actions/checkout@v2
+    - name: checkout
+    - uses: actions/checkout@v2
 
-      - name: Laravel PHPUnit
-      - uses: nathanheffley/laravel-phpunit-action@v0.1.0
+    - name: Laravel PHPUnit
+    - uses: nathanheffley/laravel-phpunit-action@v0.1.0
