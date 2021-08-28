@@ -1,0 +1,177 @@
+body {
+    font-family: 'roboto';
+}
+
+div.inline {
+    float: left;
+}
+
+.clearBoth {
+    clear: both;
+}
+
+.button-wrapper {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.pointer {
+    cursor: pointer;
+    color: #0d5fe6;
+
+}
+
+#upload-photo {
+    opacity: 0;
+    position: absolute;
+    z-index: -1;
+}
+
+.userrole {
+    color: #062c33;
+    text-align: center;
+    border: solid;
+    border-color: #7b7b7b;
+    border-width: 2px;
+    background-color: #7b7b7b;
+    padding: 6px 4px 4px 10px;
+    margin: 5px 5px 5px 5px;
+    border-radius: 30px;
+}
+
+.askforrole {
+    text-align: center;
+    border: solid;
+    border-color: #7b7b7b;
+    border-width: 2px;
+    padding: 6px 4px 4px 10px;
+    margin: 5px 5px 5px 5px;
+    border-radius: 30px;
+    background-color: #B1BACE;
+
+}
+
+.points {
+    text-align: center;
+    padding: 6px 4px 4px 5px;
+    margin: 5px 5px 5px 5px;
+
+}
+
+.pointval {
+
+    font-size: 23px;
+}
+
+.pointcolor {
+    color: #3bb878;
+}
+
+.badgecolor {
+    color: #ff8517;
+}
+
+.coursecolor {
+    color: #f7729b;
+}
+.listbadge{
+    background-color: #f9f9f9;
+    border-radius: 15px;
+    /*box-shadow: 3px 5px rgba(191, 191, 191, 0.47);*/
+
+}
+#badge-img {
+
+    alignment: center;
+
+}
+
+.badage-text{
+    text-align: center;
+}
+
+.btn-accept{
+
+    background-color: transparent;
+    border:solid 2px;
+
+
+    padding: 10px 25px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 25px;
+    /*box-shadow: 0px 3px 0px #f7941d;*/
+}
+
+.circular-progress-bar {
+
+    position: relative;
+    margin: 0 auto;
+    transform: rotate(-90deg);
+
+}
+
+
+.progress-bar {
+    position: relative;
+    height: 100px;
+    width: 100px;
+    background-color:transparent;!important;
+    box-shadow: inset 0 -1px 0 rgba(0,0,0,0);
+
+
+}
+
+.progress-bar div {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+
+}
+
+.progress-bar div span {
+    position: absolute;
+    font-family: 'roboto';
+    font-size: 25px;
+    line-height: 75px;
+    height: 75px;
+    width: 75px;
+    left: 12.5px;
+    top: 12.5px;
+    text-align: center;
+    border-radius: 50%;
+
+}
+
+.progress-bar .background { background-color: #b3cef6; }
+
+.progress-bar .rotate {
+    clip: rect(0 50px 100px 0);
+    background-color: #4b86db;
+}
+
+.progress-bar .left {
+    clip: rect(0 50px 100px 0);
+    opacity: 1;
+    background-color: #b3cef6;
+}
+
+.progress-bar .right {
+    clip: rect(0 50px 100px 0);
+    transform: rotate(180deg);
+    opacity: 0;
+    background-color: #4b86db;
+}
+
+@keyframes
+toggle {  0% {
+    opacity: 0;
+}
+    100% {
+        opacity: 1;
+    }
+}

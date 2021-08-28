@@ -1,0 +1,57 @@
+body{
+	height:99vh;
+	width:100%;
+	margin:0;
+}
+.vbox,
+.vbox .row,
+#leftpanel,
+#maincontent {
+	margin:0px;
+	/* border: 1px dotted black; */
+}
+
+.hbox {
+	margin: 0px;
+	/* border: 1px dotted black; */
+}
+.vbox{
+	display:flex;
+	flex-flow:column;
+	height: 100%;
+}
+.vbox .row.header{
+	flex: 0 1 40px;
+	background: #333333;	
+	color:white;	
+	text-align:center;
+}
+.vbox .row.content{
+	flex: 1 1 auto;
+}
+.vbox .row.footer{
+	flex: 0 1 40px;
+	background: #333333;	
+	color:white;	
+	text-align:center;
+}
+
+.hbox{
+	display: flex;
+	flex-flow: row ;
+	flex-wrap: nowrap;
+	width:100%;
+}
+#leftpanel{
+	 flex: 0 1 auto;
+	 max-width:600px;
+	 min-width:600px
+}
+#maincontent{
+	flex: 1 1 auto;
+	padding:5px;
+}
+
+#exerciseSet-editor{
+	height: 90%;
+}

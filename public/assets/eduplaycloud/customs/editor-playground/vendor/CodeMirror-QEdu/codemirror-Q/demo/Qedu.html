@@ -1,0 +1,109 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>CodeMirror: XQuery Folding Demo</title>
+    
+    <!-- CodeMirror -->
+    <link rel="stylesheet" href="../../codemirror/lib/codemirror.css">
+    <script src="../../codemirror/lib/codemirror.js"></script>    
+    <link rel="stylesheet" href="../../codemirror/doc/docs.css">
+    <link rel="stylesheet" href="../../codemirror/theme/xq-light.css">
+
+	<!-- CodeMirror Fold -->
+	<script src="../../codemirror/addon/fold/foldcode.js"> </script>
+	<script src="../../codemirror/addon/fold/foldgutter.js"> </script>	
+	<script src="../../codemirror/addon/fold/brace-fold.js"></script>  
+	<script src="../../codemirror/addon/fold/xml-fold.js"></script>
+    <script src="../../codemirror/addon/fold/comment-fold.js"></script>
+    <script src="../../codemirror/addon/fold/indent-fold.js"></script>
+    <script src="../../codemirror/addon/mode/simple.js"></script>
+ 	<!-- CodeMirror Extension -->  
+	<link rel="stylesheet" href="../../codemirror-extension/addon/fold/folding-eclipse.css">	  
+   	    
+    <!-- CodeMirror-XQuery -->
+    <script src="../mode/qedu/qedusimple.js"></script>
+    <script src="../mode/qedu/formatter.js"></script> 
+
+    <style type="text/css">
+      .CodeMirror {
+        height:500px;
+      }
+    </style>    
+  </head>
+  <body>
+    <h1>CodeMirror: Question Editor demo</h1>
+
+    <form><textarea id="code" name="code">
+        Problem:
+        // EduPlayCloud: Write your comment here about Problem.  
+        Parameters:
+        {
+        f: readfile('test')
+        c:Write your Parameter function here or delete this line
+        }
+        P:
+        Write here...
+        PQuestion:
+        // EduPlayCloud: Write your comment here about Question.  */
+        \Attr
+        {
+        Difficulty: easy
+        Time: '10'
+        Tag: 'math, numbers'
+        Type: mutlichoice
+        }
+        Q:
+        Write here...
+        sdflkjsdlfk < djsjdfs eui >=
+        Answers:
+        +A:
+        Write here...
+        -A:
+        Write here...
+        -A:
+        Write here...
+        -A:
+        Write here...
+        Hints:
+        -H:
+        Write here...
+        -H:
+        Write here...
+        
+
+    </textarea>
+</form>
+
+    <script>   
+      var sc=document.getElementById("code")
+      var mtext=sc.innerHTML
+      sc.innerHTML= formatQText(mtext,"  ")
+      var myCodeMirror = CodeMirror.fromTextArea(document.getElementById("code"), {
+        lineNumbers: true,
+        theme: "xq-light",
+       // value: (sc.textContent || sc.innerText || sc.innerHTML),
+       mode:"qedusimple",
+       //smartIndent=true,
+       //indentUnit=3,
+        gutters: ["CodeMirror-linenumbers", "CodeMirror-foldgutter"],
+        foldGutter: {
+            rangeFinder : new CodeMirror.fold.combine(CodeMirror.fold.brace, CodeMirror.fold.comment, CodeMirror.fold.xml,CodeMirror.fold.indent)
+        }
+      });
+  //     myCodeMirror.setSelection({
+  //   'line':myCodeMirror.firstLine(),
+  //   'ch':0,
+  //   'sticky':null
+  // },{
+  //   'line':myCodeMirror.lastLine(),
+  //   'ch':0,
+  //   'sticky':null
+  // },
+  // {scroll: false});
+  // //auto indent the selection
+  // myCodeMirror.indentSelection("smart");
+      
+    </script>
+  </body>
+</html>

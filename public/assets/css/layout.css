@@ -1,0 +1,45 @@
+.Question {
+background: rgb(123, 201, 231);
+border: 1px solid black;
+padding: 10px 20px 10px 20px;
+}
+.Answer {
+	background: rgb(219, 236, 219);
+	border: 1px solid red;
+	padding: 10px 20px 10px 20px;
+}
+.vbox,
+.vbox .row,
+
+.hbox {
+	margin: 0px;
+	/* border: 1px dotted black; */
+}
+.vbox{
+	display:flex;
+	flex-flow:column;
+	height: 100%;
+}
+.vbox .row.header{
+	flex: 0 1 40px;
+	background: #333333;	
+	color:white;	
+	text-align:center;
+}
+.vbox .row.content{
+	flex: 1 1 auto;
+}
+.vbox .row.footer{
+	flex: 0 1 40px;
+	background: #333333;	
+	color:white;	
+	text-align:center;
+}
+
+.hbox{
+	display: flex;
+	flex-flow: row ;
+	flex-wrap: nowrap;
+	width:100%;
+}
+

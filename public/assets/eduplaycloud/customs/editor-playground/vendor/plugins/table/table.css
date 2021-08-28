@@ -1,0 +1,212 @@
+.dataTable {
+    border-collapse: collapse;
+}
+
+.dataTable td {
+    width: 100px;
+    padding: 2px 10px 2px 10px;
+    font-size: 11.0pt;
+    font-family: "Cambria";
+
+}
+
+.dataTable tr:nth-child(even) {
+    background-color: #DEEAF6;
+}
+
+.dataTable tr:hover {
+    background-color: #ddd;
+}
+
+.dataTable th {
+    font-weight: bold;
+    text-align: left;
+    padding: 2px 10px 2px 10px;
+    border-bottom: 1px solid #9CC2E5;
+}
+
+.dataTable th:first-child {
+    font-weight: bold;
+    font-style: italic;
+    text-align: right;
+    border-right: 1px solid #9CC2E5;
+
+}
+
+.dataTable tbody td {
+    border: 1px solid #9CC2E5;
+}
+
+.dataTable tbody td:first-child {
+    font-weight: bold;
+    font-style: italic;
+    text-align: right;
+    border: none;
+    border-right: 1px solid #9CC2E5;
+    background-color: white;
+}
+.dataTable tfoot td {
+    padding: 10px 10px 10px 10px;
+    font-weight: bold;
+    text-align: center
+
+}
+
+.blueTable {
+    border-collapse: collapse;
+}
+
+.blueTable td {
+    width: 100px;
+    padding: 2px 10px 2px 10px;
+    font-size: 11.0pt;
+    font-family: "Cambria";
+
+}
+
+.blueTable tr:nth-child(even) {
+    background-color: #DEEAF6;
+}
+
+.blueTable tr:hover {
+    background-color: #ddd;
+}
+
+.blueTable th {
+    font-weight: bold;
+    text-align: left;
+    padding: 2px 10px 2px 10px;
+    border-bottom: 1px solid #9CC2E5;
+    background:#5B9BD5;
+    color: white;
+}
+
+
+
+.blueTable tbody td {
+    border: 1px solid #9CC2E5;
+}
+
+
+.blueTable tfoot td {
+    padding: 10px 10px 10px 10px;
+    font-weight: bold;
+    text-align: center
+
+}
+
+
+.normalBlueTable {
+    border-collapse: collapse;
+}
+
+.normalBlueTable td {
+    width: 100px;
+    padding: 2px 10px 2px 10px;
+    font-size: 11.0pt;
+    font-family: "Cambria";
+
+}
+
+
+
+.normalBlueTable tr:hover {
+    background-color: #ddd;
+}
+
+.normalBlueTable th {
+    font-weight: bold;
+    text-align: left;
+    padding: 2px 10px 2px 10px;
+    border: 1px solid #9CC2E5;
+    border-bottom: 2px solid #9CC2E5;
+       
+}
+
+
+
+.normalBlueTable tbody td {
+    border: 1px solid #9CC2E5;
+}
+
+
+.normalBlueTable tfoot td {
+    padding: 10px 10px 10px 10px;
+    font-weight: bold;
+    text-align: center
+
+}
+
+.normalBTable {
+    border-collapse: collapse;
+}
+
+.normalBTable td {
+    width: 100px;
+    padding: 2px 10px 2px 10px;
+    font-size: 11.0pt;
+    font-family: "Cambria";
+
+}
+
+
+.normalBTable th {
+    font-weight: bold;
+    text-align: left;
+    padding: 2px 10px 2px 10px;
+    border-bottom: 1px solid black;
+}
+
+
+.normalBTable tfoot td {
+    padding: 10px 10px 10px 10px;
+    font-weight: bold;
+    text-align: center
+
+}
+
+.normalBTable th:first-child {
+font-weight: bold;
+font-style: italic;
+
+border-right: 1px solid black;
+
+}
+
+
+.normalBTable tbody td:first-child {
+font-weight: bold;
+font-style: italic;
+
+border: none;
+border-right: 1px solid black;
+
+}
+
+.matrix {
+    border-collapse: collapse;
+}
+
+.matrix td,.matrix th {
+    
+    padding: 2px 10px 2px 10px;
+    font-size: 11.0pt;
+    font-family: "Cambria";
+    font-weight: normal;
+    text-align: center;
+}
+
+.matrix thead  {
+
+border-right: 1px solid black;
+border-left: 1px solid black;
+
+}
+
+.matrix tbody  {
+
+border-right: 1px solid black;
+border-left: 1px solid black;
+
+}
+

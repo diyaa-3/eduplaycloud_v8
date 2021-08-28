@@ -1,0 +1,217 @@
+[
+    {
+        "ItemType": "Problem",
+        "Attributes": null,
+        "Parameters": "somefile.xls",
+        "Problem_Description": {
+            "Attributes": null,
+            "Sections": [
+                {
+                    "SectionType": "Text",
+                    "Attributes": null,
+                    "Value": "You have 3 point A(1,1,1), B(2,2,2), C({{V1}},{{V2}},{{V3}})"
+                }
+            ]
+        },
+        "Questions": [
+            {
+                "ItemType": "Question",
+                "Attributes": {
+                    "Difficulty": "easy",
+                    "Time": "10",
+                    "Tag": "math, geometrie",
+                    "Type": "mutlichoice"
+                },
+                "Question_Description": {
+                    "Attributes": null,
+                    "Sections": [
+                        {
+                            "SectionType": "Text",
+                            "Attributes": null,
+                            "Value": "What is the aerea of the triangle:"
+                        },
+                        {
+                            "SectionType": "Plugin",
+                            "Plugin": "image",
+                            "Attributes": {
+                                "display": "block",
+                                "caption": "(fig.1)",
+                                "repeat": "1"
+                            },
+                            "Value": "src:eduplay_logo.png"
+                        }
+                    ]
+                },
+                "Answers": {
+                    "Attributes": null,
+                    "Choices": [
+                        {
+                            "Attributes": {
+                                "IsCorrect": true
+                            },
+                            "Sections": [
+                                {
+                                    "SectionType": "Text",
+                                    "Attributes": null,
+                                    "Value": "1050 sqft"
+                                },
+                                {
+                                    "SectionType": "Plugin",
+                                    "Plugin": "video",
+                                    "Attributes": null,
+                                    "Value": "https://www.youtube.com/embed/YFD2PPAqNbw"
+                                }
+                            ]
+                        },
+                        {
+                            "Attributes": {
+                                "IsCorrect": false
+                            },
+                            "Sections": [
+                                {
+                                    "SectionType": "Text",
+                                    "Attributes": null,
+                                    "Value": "2000 cm"
+                                }
+                            ]
+                        },
+                        {
+                            "Attributes": {
+                                "IsCorrect": false
+                            },
+                            "Sections": [
+                                {
+                                    "SectionType": "Text",
+                                    "Attributes": null,
+                                    "Value": "Write here..."
+                                }
+                            ]
+                        },
+                        {
+                            "Attributes": {
+                                "IsCorrect": false
+                            },
+                            "Sections": [
+                                {
+                                    "SectionType": "Text",
+                                    "Attributes": null,
+                                    "Value": "Write here..."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "Hints": {
+                    "Attributes": null,
+                    "HintList": [
+                        {
+                            "Attributes": null,
+                            "Sections": [
+                                {
+                                    "SectionType": "Text",
+                                    "Attributes": null,
+                                    "Value": "Write here..."
+                                }
+                            ]
+                        },
+                        {
+                            "Attributes": null,
+                            "Sections": [
+                                {
+                                    "SectionType": "Text",
+                                    "Attributes": null,
+                                    "Value": "Write here..."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "ItemType": "Question",
+                "Attributes": {
+                    "Difficulty": "easy",
+                    "Time": "10",
+                    "Tag": "math, numbers",
+                    "Type": "mutlichoice"
+                },
+                "Question_Description": {
+                    "Attributes": null,
+                    "Sections": [
+                        {
+                            "SectionType": "Text",
+                            "Attributes": null,
+                            "Value": "if we move the point B to (5,,5,5) What would become the new area"
+                        },
+                        {
+                            "SectionType": "Plugin",
+                            "Plugin": "image",
+                            "Attributes": {
+                                "display": "block",
+                                "caption": "(fig.1)",
+                                "repeat": "1"
+                            },
+                            "Value": "src:eduplay_logo222.png"
+                        }
+                    ]
+                },
+                "Answers": {
+                    "Attributes": null,
+                    "Choices": [
+                        {
+                            "Attributes": {
+                                "IsCorrect": true
+                            },
+                            "Sections": [
+                                {
+                                    "SectionType": "Text",
+                                    "Attributes": null,
+                                    "Value": "some value."
+                                }
+                            ]
+                        },
+                        {
+                            "Attributes": {
+                                "IsCorrect": false
+                            },
+                            "Sections": [
+                                {
+                                    "SectionType": "Text",
+                                    "Attributes": null,
+                                    "Value": "Write here..."
+                                }
+                            ]
+                        },
+                        {
+                            "Attributes": {
+                                "IsCorrect": false
+                            },
+                            "Sections": [
+                                {
+                                    "SectionType": "Text",
+                                    "Attributes": null,
+                                    "Value": "Write here..."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "Hints": {
+                    "Attributes": null,
+                    "HintList": [
+                        {
+                            "Attributes": null,
+                            "Sections": [
+                                {
+                                    "SectionType": "Text",
+                                    "Attributes": null,
+                                    "Value": "Write here...\n."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,95 @@
+/*----------------------------------------*/
+/*  2.  class listing  CSS
+/*----------------------------------------*/
+.requestjoin {
+    background: #22c5f7;
+    float: right;
+    padding:0 0 0 10px;
+    position: absolute;
+    z-index: 999;
+    right: 25px;
+    top: 10px;
+    width: 35px;
+    height: 25px;
+    border-radius: 20px;
+}
+.requestjoin.text-requested {
+    background: #fda333;
+    float: right;
+    padding:2px 0 0 10px;
+    position: absolute;
+    z-index: 999;
+    color: #fff;
+    right: 25px;
+    top: 10px;
+    width: 35px;
+    height: 25px;
+    border-radius: 20px;
+}
+
+.requestjoin.text-approve {
+    background: #06B806;
+    float: right;
+    padding:2px 0 0 10px;
+    position: absolute;
+    z-index: 999;
+    color: #fff;
+    right: 25px;
+    top: 10px;
+    width: 35px;
+    height: 25px;
+    border-radius: 20px;
+}
+
+
+.requestjoin.text-decline {
+    background: #d6444b;
+    float: right;
+    padding:2px 0 0 10px;
+    position: absolute;
+    z-index: 999;
+    color: #fff;
+    right: 25px;
+    top: 10px;
+    width: 35px;
+    height: 25px;
+    border-radius: 20px;
+}
+
+.text-requestjoin span {
+    top: -7px;
+    position: relative;
+    font-size: 9px;
+    text-transform: uppercase;
+}
+
+.one-long-line a {
+    float: right;
+    margin-right: 10px;
+    margin-top: -2px;
+    white-space:nowrap;
+    overflow:hidden;
+
+}
+
+.one-long-line-sent a {
+    float: right;
+    margin-right: 10px;
+    margin-top: -2px;
+    white-space:nowrap;
+    overflow:hidden;
+
+}
+
+.one-long-line a:hover {
+
+    width: 125px !important;
+    color: #fff !important;
+
+}
+.ajax-load {
+    display:none;
+}
+.end-load{
+    display:none;
+}

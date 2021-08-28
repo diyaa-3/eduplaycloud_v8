@@ -1,0 +1,500 @@
+a1,n1,n2,n,a2,a3,a4
+70,1,One  ,Seventy  ,28,65,53
+5133,2,Two  ,Five thousand  one hundred thirty-three  ,3352,1890,3562
+9559,3,Three  ,Nine thousand  five hundred fifty-nine  ,292,2641,8306
+7845,4,Four  ,Seven thousand  eight hundred forty-five  ,2240,3648,6339
+625,5,Five  ,Six hundred twenty-five  ,463,95,293
+887,6,Six  ,Eight hundred eighty-seven  ,82,364,309
+8509,7,Seven  ,Eight thousand  five hundred nine  ,1946,1987,6473
+6547,8,Eight  ,Six thousand  five hundred forty-seven  ,5213,6374,6010
+7926,9,Nine  ,Seven thousand  nine hundred twenty-six  ,6890,3229,3654
+3268,10,Ten  ,Three thousand  two hundred sixty-eight  ,1141,2352,561
+2160,11,Eleven  ,Two thousand  one hundred sixty  ,1582,1272,206
+8739,12,Twelve  ,Eight thousand  seven hundred thirty-nine  ,1599,6794,4505
+5075,13,Thirteen  ,Five thousand  seventy-five  ,3066,3682,1503
+727,14,Fourteen  ,Seven hundred twenty-seven  ,195,119,599
+800,15,Fifteen  ,Eight hundred  ,558,528,569
+9161,16,Sixteen  ,Nine thousand  one hundred sixty one  ,2577,3833,3146
+7885,17,Seventeen  ,Seven thousand  eight hundred eighty-five  ,872,253,7187
+454,18,Eighteen  ,Four hundred fifty-four  ,420,99,379
+5623,19,Nineteen  ,Five thousand  six hundred twenty-three  ,5199,2923,3662
+1840,20,Twenty  ,One thousand  eight hundred forty  ,718,840,541
+9608,21,Twenty one  ,Nine thousand  six hundred eight  ,3685,6375,858
+8964,22,Twenty-two  ,Eight thousand  nine hundred sixty-four  ,4908,2268,4549
+5451,23,Twenty-three  ,Five thousand  four hundred fifty one  ,105,4048,2457
+8882,24,Twenty-four  ,Eight thousand  eight hundred eighty-two  ,4611,8332,8779
+1574,25,Twenty-five  ,One thousand  five hundred seventy-four  ,260,559,140
+1642,26,Twenty-six  ,One thousand  six hundred forty-two  ,308,278,1633
+6317,27,Twenty-seven  ,Six thousand  three hundred seventeen  ,4771,4487,2684
+5656,28,Twenty-eight  ,Five thousand  six hundred fifty-six  ,2765,2466,4973
+9837,29,Twenty-nine  ,Nine thousand  eight hundred thirty-seven  ,1231,8740,516
+6116,30,Thirty  ,Six thousand  one hundred sixteen  ,236,3159,2903
+6497,31,Thirty one  ,Six thousand  four hundred ninety-seven  ,4724,4522,3966
+6870,32,Thirty-two  ,Six thousand  eight hundred seventy  ,4514,6810,2468
+8217,33,Thirty-three  ,Eight thousand  two hundred seventeen  ,5296,6555,7842
+164,34,Thirty-four  ,One hundred sixty-four  ,84,53,133
+6853,35,Thirty-five  ,Six thousand  eight hundred fifty-three  ,1694,6203,6341
+4511,36,Thirty-six  ,Four thousand  five hundred eleven  ,1338,155,1811
+9300,37,Thirty-seven  ,Nine thousand  three hundred  ,9229,5308,8472
+4901,38,Thirty-eight  ,Four thousand  nine hundred one  ,1249,86,962
+8029,39,Thirty-nine  ,Eight thousand  twenty-nine  ,3064,412,5355
+7477,40,Forty  ,Seven thousand  four hundred seventy-seven  ,7274,618,2791
+2630,41,Forty one  ,Two thousand  six hundred thirty  ,68,2623,2470
+9144,42,Forty-two  ,Nine thousand  one hundred forty-four  ,7371,5142,8129
+9212,43,Forty-three  ,Nine thousand  two hundred twelve  ,902,2008,4242
+4303,44,Forty-four  ,Four thousand  three hundred three  ,2523,2383,1952
+6271,45,Forty-five  ,Six thousand  two hundred seventy one  ,317,3165,293
+4026,46,Forty-six  ,Four thousand  twenty-six  ,2106,3222,2473
+4302,47,Forty-seven  ,Four thousand  three hundred two  ,3184,3163,181
+2387,48,Forty-eight  ,Two thousand  three hundred eighty-seven  ,2381,1478,1824
+8482,49,Forty-nine  ,Eight thousand  four hundred eighty-two  ,874,2153,2000
+6892,50,Fifty  ,Six thousand  eight hundred ninety-two  ,4467,845,979
+1119,51,Fifty one  ,One thousand  one hundred nineteen  ,309,1072,704
+6759,52,Fifty-two  ,Six thousand  seven hundred fifty-nine  ,4413,5615,1167
+759,53,Fifty-three  ,Seven hundred fifty-nine  ,364,673,456
+6919,54,Fifty-four  ,Six thousand  nine hundred nineteen  ,4315,980,2990
+7995,55,Fifty-five  ,Seven thousand  nine hundred ninety-five  ,5978,3992,5103
+217,56,Fifty-six  ,Two hundred seventeen  ,30,37,28
+2132,57,Fifty-seven  ,Two thousand  one hundred thirty-two  ,1112,714,735
+2300,58,Fifty-eight  ,Two thousand  three hundred  ,94,994,953
+2840,59,Fifty-nine  ,Two thousand  eight hundred forty  ,2499,2288,2425
+2688,60,Sixty  ,Two thousand  six hundred eighty-eight  ,1226,1,2438
+5678,61,Sixty one  ,Five thousand  six hundred seventy-eight  ,3163,3337,2788
+7463,62,Sixty-two  ,Seven thousand  four hundred sixty-three  ,5699,6293,3235
+7305,63,Sixty-three  ,Seven thousand  three hundred five  ,6589,923,5404
+2646,64,Sixty-four  ,Two thousand  six hundred forty-six  ,1306,2536,295
+2674,65,Sixty-five  ,Two thousand  six hundred seventy-four  ,632,2664,1852
+8280,66,Sixty-six  ,Eight thousand  two hundred eighty  ,1022,3429,4555
+4547,67,Sixty-seven  ,Four thousand  five hundred forty-seven  ,357,104,2976
+4488,68,Sixty-eight  ,Four thousand  four hundred eighty-eight  ,3133,3489,2527
+2036,69,Sixty-nine  ,Two thousand  thirty-six  ,798,685,1169
+9814,70,Seventy  ,Nine thousand  eight hundred fourteen  ,391,5989,8662
+9850,71,Seventy one  ,Nine thousand  eight hundred fifty  ,600,206,574
+3905,72,Seventy-two  ,Three thousand  nine hundred five  ,355,9,2788
+3922,73,Seventy-three  ,Three thousand  nine hundred twenty-two  ,2789,3502,3849
+8067,74,Seventy-four  ,Eight thousand  sixty-seven  ,1363,814,1029
+325,75,Seventy-five  ,Three hundred twenty-five  ,29,193,273
+8878,76,Seventy-six  ,Eight thousand  eight hundred seventy-eight  ,4275,1728,8110
+2773,77,Seventy-seven  ,Two thousand  seven hundred seventy-three  ,2494,958,150
+1617,78,Seventy-eight  ,One thousand  six hundred seventeen  ,198,921,1376
+7489,79,Seventy-nine  ,Seven thousand  four hundred eighty-nine  ,4646,3373,7130
+2019,80,Eighty  ,Two thousand  nineteen  ,1235,1197,765
+6541,81,Eighty one  ,Six thousand  five hundred forty one  ,623,287,4998
+8404,82,Eighty-two  ,Eight thousand  four hundred four  ,1746,4614,5959
+6582,83,Eighty-three  ,Six thousand  five hundred eighty-two  ,3553,2751,2066
+5458,84,Eighty-four  ,Five thousand  four hundred fifty-eight  ,1606,4024,2656
+6398,85,Eighty-five  ,Six thousand  three hundred ninety-eight  ,5482,3738,5410
+8072,86,Eighty-six  ,Eight thousand  seventy-two  ,1204,2412,4249
+3840,87,Eighty-seven  ,Three thousand  eight hundred forty  ,1039,2804,1078
+526,88,Eighty-eight  ,Five hundred twenty-six  ,214,403,462
+8752,89,Eighty-nine  ,Eight thousand  seven hundred fifty-two  ,1448,2985,2253
+9038,90,Ninety  ,Nine thousand  thirty-eight  ,5069,3481,3693
+9423,91,Ninety one  ,Nine thousand  four hundred twenty-three  ,2640,3690,948
+2074,92,Ninety-two  ,Two thousand  seventy-four  ,857,625,1705
+8947,93,Ninety-three  ,Eight thousand  nine hundred forty-seven  ,4062,182,4994
+6164,94,Ninety-four  ,Six thousand  one hundred sixty-four  ,2094,142,5047
+2283,95,Ninety-five  ,Two thousand  two hundred eighty-three  ,1873,1943,2280
+8119,96,Ninety-six  ,Eight thousand  one hundred nineteen  ,4091,6641,7030
+8849,97,Ninety-seven  ,Eight thousand  eight hundred forty-nine  ,2253,2723,8581
+1309,98,Ninety-eight  ,One thousand  three hundred nine  ,23,455,470
+419,99,Ninety-nine  ,Four hundred nineteen  ,175,371,368
+6834,100,One hundred  ,Six thousand  eight hundred thirty-four  ,5662,6432,1290
+7299,101,One hundred one  ,Seven thousand  two hundred ninety-nine  ,2624,7276,5645
+3993,102,One hundred two  ,Three thousand  nine hundred ninety-three  ,2742,2052,1695
+6469,103,One hundred three  ,Six thousand  four hundred sixty-nine  ,1718,201,5398
+3499,104,One hundred four  ,Three thousand  four hundred ninety-nine  ,3294,3215,2728
+1703,105,One hundred five  ,One thousand  seven hundred three  ,779,1105,1283
+6903,106,One hundred six  ,Six thousand  nine hundred three  ,3675,6244,6352
+1779,107,One hundred seven  ,One thousand  seven hundred seventy-nine  ,256,1153,1192
+2978,108,One hundred eight  ,Two thousand  nine hundred seventy-eight  ,267,2326,349
+9718,109,One hundred nine  ,Nine thousand  seven hundred eighteen  ,5928,6528,9039
+1332,110,One hundred ten  ,One thousand  three hundred thirty-two  ,905,881,1014
+3888,111,One hundred eleven  ,Three thousand  eight hundred eighty-eight  ,2094,220,1203
+4128,112,One hundred twelve  ,Four thousand  one hundred twenty-eight  ,1432,461,1427
+1078,113,One hundred thirteen  ,One thousand  seventy-eight  ,569,184,239
+6077,114,One hundred fourteen  ,Six thousand  seventy-seven  ,4296,1998,5779
+7241,115,One hundred fifteen  ,Seven thousand  two hundred forty one  ,1970,3810,5920
+4362,116,One hundred sixteen  ,Four thousand  three hundred sixty-two  ,4102,1318,3949
+691,117,One hundred seventeen  ,Six hundred ninety one  ,334,44,142
+7949,118,One hundred eighteen  ,Seven thousand  nine hundred forty-nine  ,155,6974,2429
+3016,119,One hundred nineteen  ,Three thousand  sixteen  ,1037,2440,2610
+642,120,One hundred twenty  ,Six hundred forty-two  ,190,132,458
+3070,121,One hundred twenty one  ,Three thousand  seventy  ,180,191,2672
+3025,122,One hundred twenty-two  ,Three thousand  twenty-five  ,2449,610,2903
+5003,123,One hundred twenty-three  ,Five thousand  three  ,3029,4466,1603
+870,124,One hundred twenty-four  ,Eight hundred seventy  ,237,363,790
+8576,125,One hundred twenty-five  ,Eight thousand  five hundred seventy-six  ,5070,1350,4949
+4787,126,One hundred twenty-six  ,Four thousand  seven hundred eighty-seven  ,3067,4718,2403
+8844,127,One hundred twenty-seven  ,Eight thousand  eight hundred forty-four  ,4490,1228,7191
+8012,128,One hundred twenty-eight  ,Eight thousand  twelve  ,2666,785,7215
+7948,129,One hundred twenty-nine  ,Seven thousand  nine hundred forty-eight  ,3542,2701,67
+1466,130,One hundred thirty  ,One thousand  four hundred sixty-six  ,672,448,310
+4282,131,One hundred thirty one  ,Four thousand  two hundred eighty-two  ,4046,1122,1451
+7102,132,One hundred thirty-two  ,Seven thousand  one hundred two  ,121,480,2329
+4191,133,One hundred thirty-three  ,Four thousand  one hundred ninety one  ,3883,1488,1939
+2427,134,One hundred thirty-four  ,Two thousand  four hundred twenty-seven  ,2218,1087,1209
+839,135,One hundred thirty-five  ,Eight hundred thirty-nine  ,695,194,671
+2139,136,One hundred thirty-six  ,Two thousand  one hundred thirty-nine  ,1684,966,912
+8189,137,One hundred thirty-seven  ,Eight thousand  one hundred eighty-nine  ,4248,8023,7528
+2307,138,One hundred thirty-eight  ,Two thousand  three hundred seven  ,2096,2243,711
+5329,139,One hundred thirty-nine  ,Five thousand  three hundred twenty-nine  ,2388,1812,2391
+7381,140,One hundred forty  ,Seven thousand  three hundred eighty one  ,3731,1655,1867
+4178,141,One hundred forty one  ,Four thousand  one hundred seventy-eight  ,3592,1638,2809
+9318,142,One hundred forty-two  ,Nine thousand  three hundred eighteen  ,8319,2211,1773
+4619,143,One hundred forty-three  ,Four thousand  six hundred nineteen  ,1323,3979,3521
+7787,144,One hundred forty-four  ,Seven thousand  seven hundred eighty-seven  ,7229,1741,891
+9917,145,One hundred forty-five  ,Nine thousand  nine hundred seventeen  ,791,36,3328
+4507,146,One hundred forty-six  ,Four thousand  five hundred seven  ,3503,75,3620
+9601,147,One hundred forty-seven  ,Nine thousand  six hundred one  ,4242,6775,4208
+435,148,One hundred forty-eight  ,Four hundred thirty-five  ,7,229,428
+2219,149,One hundred forty-nine  ,Two thousand  two hundred nineteen  ,1169,1442,440
+9068,150,One hundred fifty  ,Nine thousand  sixty-eight  ,5829,6728,7722
+9373,151,One hundred fifty one  ,Nine thousand  three hundred seventy-three  ,8856,8761,1611
+7299,152,One hundred fifty-two  ,Seven thousand  two hundred ninety-nine  ,639,4333,608
+2172,153,One hundred fifty-three  ,Two thousand  one hundred seventy-two  ,1254,1658,1641
+3894,154,One hundred fifty-four  ,Three thousand  eight hundred ninety-four  ,1952,3023,956
+1887,155,One hundred fifty-five  ,One thousand  eight hundred eighty-seven  ,121,32,674
+5903,156,One hundred fifty-six  ,Five thousand  nine hundred three  ,4451,1504,3467
+98,157,One hundred fifty-seven  ,Ninety-eight  ,28,15,97
+9491,158,One hundred fifty-eight  ,Nine thousand  four hundred ninety one  ,5344,681,8171
+4043,159,One hundred fifty-nine  ,Four thousand  forty-three  ,3043,3296,1077
+6480,160,One hundred sixty  ,Six thousand  four hundred eighty  ,3422,3869,1665
+2054,161,One hundred sixty one  ,Two thousand  fifty-four  ,1073,1702,388
+9468,162,One hundred sixty-two  ,Nine thousand  four hundred sixty-eight  ,1095,5066,5215
+9772,163,One hundred sixty-three  ,Nine thousand  seven hundred seventy-two  ,7470,2964,1605
+6231,164,One hundred sixty-four  ,Six thousand  two hundred thirty one  ,1046,1720,3499
+2146,165,One hundred sixty-five  ,Two thousand  one hundred forty-six  ,78,417,960
+5352,166,One hundred sixty-six  ,Five thousand  three hundred fifty-two  ,5108,1111,2951
+4503,167,One hundred sixty-seven  ,Four thousand  five hundred three  ,2541,2132,1876
+1919,168,One hundred sixty-eight  ,One thousand  nine hundred nineteen  ,1516,40,962
+7886,169,One hundred sixty-nine  ,Seven thousand  eight hundred eighty-six  ,4087,6082,6570
+4418,170,One hundred seventy  ,Four thousand  four hundred eighteen  ,2899,1873,4051
+1926,171,One hundred seventy one  ,One thousand  nine hundred twenty-six  ,1608,208,848
+6639,172,One hundred seventy-two  ,Six thousand  six hundred thirty-nine  ,1086,5848,156
+8453,173,One hundred seventy-three  ,Eight thousand  four hundred fifty-three  ,3420,6417,7866
+1507,174,One hundred seventy-four  ,One thousand  five hundred seven  ,417,720,597
+330,175,One hundred seventy-five  ,Three hundred thirty  ,284,252,192
+3298,176,One hundred seventy-six  ,Three thousand  two hundred ninety-eight  ,259,897,1605
+6266,177,One hundred seventy-seven  ,Six thousand  two hundred sixty-six  ,5252,3336,3830
+4272,178,One hundred seventy-eight  ,Four thousand  two hundred seventy-two  ,4,2780,1532
+8501,179,One hundred seventy-nine  ,Eight thousand  five hundred one  ,5371,7884,7740
+4931,180,One hundred eighty  ,Four thousand  nine hundred thirty one  ,2371,1725,1101
+7563,181,One hundred eighty one  ,Seven thousand  five hundred sixty-three  ,75,2448,5564
+8854,182,One hundred eighty-two  ,Eight thousand  eight hundred fifty-four  ,50,7592,7783
+567,183,One hundred eighty-three  ,Five hundred sixty-seven  ,191,563,130
+6106,184,One hundred eighty-four  ,Six thousand  one hundred six  ,615,5623,2252
+4544,185,One hundred eighty-five  ,Four thousand  five hundred forty-four  ,2011,497,4218
+6728,186,One hundred eighty-six  ,Six thousand  seven hundred twenty-eight  ,56,5999,734
+8042,187,One hundred eighty-seven  ,Eight thousand  forty-two  ,2687,3079,4599
+1538,188,One hundred eighty-eight  ,One thousand  five hundred thirty-eight  ,555,1378,833
+9028,189,One hundred eighty-nine  ,Nine thousand  twenty-eight  ,7476,5218,7840
+3946,190,One hundred ninety  ,Three thousand  nine hundred forty-six  ,3327,2250,316
+9602,191,One hundred ninety one  ,Nine thousand  six hundred two  ,7772,643,1838
+2678,192,One hundred ninety-two  ,Two thousand  six hundred seventy-eight  ,1529,526,1048
+956,193,One hundred ninety-three  ,Nine hundred fifty-six  ,765,937,183
+4843,194,One hundred ninety-four  ,Four thousand  eight hundred forty-three  ,4041,3902,3289
+7267,195,One hundred ninety-five  ,Seven thousand  two hundred sixty-seven  ,5249,4075,1702
+5289,196,One hundred ninety-six  ,Five thousand  two hundred eighty-nine  ,2577,1921,1665
+4513,197,One hundred ninety-seven  ,Four thousand  five hundred thirteen  ,4273,2594,424
+4187,198,One hundred ninety-eight  ,Four thousand  one hundred eighty-seven  ,1752,1628,3903
+4295,199,One hundred ninety-nine  ,Four thousand  two hundred ninety-five  ,3581,1183,3178
+515,200,Two hundred  ,Five hundred fifteen  ,345,460,128
+5720,201,Two hundred one  ,Five thousand  seven hundred twenty  ,3732,4896,172
+861,202,Two hundred two  ,Eight hundred sixty one  ,657,152,320
+2563,203,Two hundred three  ,Two thousand  five hundred sixty-three  ,76,949,1714
+2041,204,Two hundred four  ,Two thousand  forty one  ,1929,937,1346
+8456,205,Two hundred five  ,Eight thousand  four hundred fifty-six  ,5952,2187,6388
+1758,206,Two hundred six  ,One thousand  seven hundred fifty-eight  ,1405,331,1352
+7529,207,Two hundred seven  ,Seven thousand  five hundred twenty-nine  ,5634,1048,6358
+4967,208,Two hundred eight  ,Four thousand  nine hundred sixty-seven  ,1809,2784,626
+6280,209,Two hundred nine  ,Six thousand  two hundred eighty  ,2169,1631,3810
+7554,210,Two hundred ten  ,Seven thousand  five hundred fifty-four  ,4453,3384,6389
+9831,211,Two hundred eleven  ,Nine thousand  eight hundred thirty one  ,5862,5246,4193
+1613,212,Two hundred twelve  ,One thousand  six hundred thirteen  ,476,1547,212
+2389,213,Two hundred thirteen  ,Two thousand  three hundred eighty-nine  ,160,1283,1727
+8101,214,Two hundred fourteen  ,Eight thousand  one hundred one  ,5917,2083,2001
+3573,215,Two hundred fifteen  ,Three thousand  five hundred seventy-three  ,3047,1306,155
+4007,216,Two hundred sixteen  ,Four thousand  seven  ,1570,2431,3856
+5816,217,Two hundred seventeen  ,Five thousand  eight hundred sixteen  ,3559,4647,1432
+5034,218,Two hundred eighteen  ,Five thousand  thirty-four  ,1772,701,2463
+6407,219,Two hundred nineteen  ,Six thousand  four hundred seven  ,4240,6203,5394
+1918,220,Two hundred twenty  ,One thousand  nine hundred eighteen  ,778,568,533
+3777,221,Two hundred twenty one  ,Three thousand  seven hundred seventy-seven  ,753,1850,2291
+2165,222,Two hundred twenty-two  ,Two thousand  one hundred sixty-five  ,1224,1096,1284
+1639,223,Two hundred twenty-three  ,One thousand  six hundred thirty-nine  ,1094,1395,1466
+767,224,Two hundred twenty-four  ,Seven hundred sixty-seven  ,130,618,619
+3054,225,Two hundred twenty-five  ,Three thousand  fifty-four  ,2396,942,3004
+5716,226,Two hundred twenty-six  ,Five thousand  seven hundred sixteen  ,3215,2397,4317
+9282,227,Two hundred twenty-seven  ,Nine thousand  two hundred eighty-two  ,6690,8717,7004
+8700,228,Two hundred twenty-eight  ,Eight thousand  seven hundred  ,5079,3938,7323
+935,229,Two hundred twenty-nine  ,Nine hundred thirty-five  ,82,238,355
+5708,230,Two hundred thirty  ,Five thousand  seven hundred eight  ,3284,1552,1704
+6395,231,Two hundred thirty one  ,Six thousand  three hundred ninety-five  ,1237,4926,4723
+4572,232,Two hundred thirty-two  ,Four thousand  five hundred seventy-two  ,2519,1083,3319
+3430,233,Two hundred thirty-three  ,Three thousand  four hundred thirty  ,1838,1777,3000
+6438,234,Two hundred thirty-four  ,Six thousand  four hundred thirty-eight  ,3117,2868,3499
+7678,235,Two hundred thirty-five  ,Seven thousand  six hundred seventy-eight  ,6643,5366,1500
+4478,236,Two hundred thirty-six  ,Four thousand  four hundred seventy-eight  ,2333,3887,4343
+6109,237,Two hundred thirty-seven  ,Six thousand  one hundred nine  ,1093,3387,88
+1984,238,Two hundred thirty-eight  ,One thousand  nine hundred eighty-four  ,41,391,157
+5339,239,Two hundred thirty-nine  ,Five thousand  three hundred thirty-nine  ,2025,2972,5187
+8407,240,Two hundred forty  ,Eight thousand  four hundred seven  ,4894,3457,5504
+4652,241,Two hundred forty one  ,Four thousand  six hundred fifty-two  ,663,2010,2335
+9131,242,Two hundred forty-two  ,Nine thousand  one hundred thirty one  ,7239,2559,6995
+7708,243,Two hundred forty-three  ,Seven thousand  seven hundred eight  ,5505,4535,4368
+4690,244,Two hundred forty-four  ,Four thousand  six hundred ninety  ,351,1760,3709
+191,245,Two hundred forty-five  ,One hundred ninety one  ,161,107,118
+3138,246,Two hundred forty-six  ,Three thousand  one hundred thirty-eight  ,260,1740,467
+2816,247,Two hundred forty-seven  ,Two thousand  eight hundred sixteen  ,1374,491,1579
+3187,248,Two hundred forty-eight  ,Three thousand  one hundred eighty-seven  ,2333,1261,2898
+6075,249,Two hundred forty-nine  ,Six thousand  seventy-five  ,3614,709,6034
+5919,250,Two hundred fifty  ,Five thousand  nine hundred nineteen  ,5386,1871,815
+3866,251,Two hundred fifty one  ,Three thousand  eight hundred sixty-six  ,388,2997,2126
+668,252,Two hundred fifty-two  ,Six hundred sixty-eight  ,384,155,269
+5634,253,Two hundred fifty-three  ,Five thousand  six hundred thirty-four  ,5042,4953,5306
+7018,254,Two hundred fifty-four  ,Seven thousand  eighteen  ,4378,4550,6353
+1596,255,Two hundred fifty-five  ,One thousand  five hundred ninety-six  ,427,1218,467
+146,256,Two hundred fifty-six  ,One hundred forty-six  ,133,138,101
+7251,257,Two hundred fifty-seven  ,Seven thousand  two hundred fifty one  ,6629,2786,2177
+3271,258,Two hundred fifty-eight  ,Three thousand  two hundred seventy one  ,619,2681,2771
+8699,259,Two hundred fifty-nine  ,Eight thousand  six hundred ninety-nine  ,8282,3076,8613
+1713,260,Two hundred sixty  ,One thousand  seven hundred thirteen  ,358,1696,861
+3435,261,Two hundred sixty one  ,Three thousand  four hundred thirty-five  ,2731,3101,421
+5131,262,Two hundred sixty-two  ,Five thousand  one hundred thirty one  ,2020,4193,815
+1253,263,Two hundred sixty-three  ,One thousand  two hundred fifty-three  ,914,745,574
+5437,264,Two hundred sixty-four  ,Five thousand  four hundred thirty-seven  ,902,1417,3667
+5457,265,Two hundred sixty-five  ,Five thousand  four hundred fifty-seven  ,890,705,4955
+4688,266,Two hundred sixty-six  ,Four thousand  six hundred eighty-eight  ,514,1941,543
+4039,267,Two hundred sixty-seven  ,Four thousand  thirty-nine  ,3398,2795,1689
+4453,268,Two hundred sixty-eight  ,Four thousand  four hundred fifty-three  ,922,1389,4115
+6109,269,Two hundred sixty-nine  ,Six thousand  one hundred nine  ,4945,2594,2789
+5128,270,Two hundred seventy  ,Five thousand  one hundred twenty-eight  ,1974,1041,864
+8429,271,Two hundred seventy one  ,Eight thousand  four hundred twenty-nine  ,7256,1752,2851
+9153,272,Two hundred seventy-two  ,Nine thousand  one hundred fifty-three  ,7047,53,3762
+4852,273,Two hundred seventy-three  ,Four thousand  eight hundred fifty-two  ,3160,1872,110
+9342,274,Two hundred seventy-four  ,Nine thousand  three hundred forty-two  ,1337,1639,2566
+1007,275,Two hundred seventy-five  ,One thousand  seven  ,1001,815,327
+8540,276,Two hundred seventy-six  ,Eight thousand  five hundred forty  ,2598,3486,5771
+8026,277,Two hundred seventy-seven  ,Eight thousand  twenty-six  ,2214,7718,512
+8225,278,Two hundred seventy-eight  ,Eight thousand  two hundred twenty-five  ,1834,971,7375
+7734,279,Two hundred seventy-nine  ,Seven thousand  seven hundred thirty-four  ,7553,4382,4452
+792,280,Two hundred eighty  ,Seven hundred ninety-two  ,207,467,251
+6771,281,Two hundred eighty one  ,Six thousand  seven hundred seventy one  ,5247,2560,5494
+7730,282,Two hundred eighty-two  ,Seven thousand  seven hundred thirty  ,5445,3143,240
+5161,283,Two hundred eighty-three  ,Five thousand  one hundred sixty one  ,4120,4329,5145
+3624,284,Two hundred eighty-four  ,Three thousand  six hundred twenty-four  ,2277,3011,2830
+9749,285,Two hundred eighty-five  ,Nine thousand  seven hundred forty-nine  ,4749,3671,4344
+3869,286,Two hundred eighty-six  ,Three thousand  eight hundred sixty-nine  ,3666,3253,2415
+9420,287,Two hundred eighty-seven  ,Nine thousand  four hundred twenty  ,6860,5590,5969
+9301,288,Two hundred eighty-eight  ,Nine thousand  three hundred one  ,4963,8141,6132
+3140,289,Two hundred eighty-nine  ,Three thousand  one hundred forty  ,810,1605,2872
+216,290,Two hundred ninety  ,Two hundred sixteen  ,46,37,114
+8661,291,Two hundred ninety one  ,Eight thousand  six hundred sixty one  ,2429,3402,111
+5695,292,Two hundred ninety-two  ,Five thousand  six hundred ninety-five  ,1783,4100,3922
+9884,293,Two hundred ninety-three  ,Nine thousand  eight hundred eighty-four  ,8770,286,6630
+8446,294,Two hundred ninety-four  ,Eight thousand  four hundred forty-six  ,995,1152,3693
+5126,295,Two hundred ninety-five  ,Five thousand  one hundred twenty-six  ,2856,3743,2385
+7443,296,Two hundred ninety-six  ,Seven thousand  four hundred forty-three  ,1781,5244,6088
+6730,297,Two hundred ninety-seven  ,Six thousand  seven hundred thirty  ,5844,1273,3863
+4413,298,Two hundred ninety-eight  ,Four thousand  four hundred thirteen  ,2858,3994,1834
+8233,299,Two hundred ninety-nine  ,Eight thousand  two hundred thirty-three  ,5153,3366,1476
+9662,300,Three hundred  ,Nine thousand  six hundred sixty-two  ,7263,5126,1232
+5672,301,Three hundred one  ,Five thousand  six hundred seventy-two  ,5501,2776,2148
+8809,302,Three hundred two  ,Eight thousand  eight hundred nine  ,5556,8300,732
+3616,303,Three hundred three  ,Three thousand  six hundred sixteen  ,2499,2558,593
+2714,304,Three hundred four  ,Two thousand  seven hundred fourteen  ,1160,1081,2325
+2233,305,Three hundred five  ,Two thousand  two hundred thirty-three  ,1671,1179,726
+8371,306,Three hundred six  ,Eight thousand  three hundred seventy one  ,653,6211,2792
+1639,307,Three hundred seven  ,One thousand  six hundred thirty-nine  ,339,306,367
+3612,308,Three hundred eight  ,Three thousand  six hundred twelve  ,1991,1222,527
+3627,309,Three hundred nine  ,Three thousand  six hundred twenty-seven  ,232,445,3423
+3081,310,Three hundred ten  ,Three thousand  eighty one  ,2767,490,2506
+6163,311,Three hundred eleven  ,Six thousand  one hundred sixty-three  ,246,2563,4989
+6476,312,Three hundred twelve  ,Six thousand  four hundred seventy-six  ,3066,3763,3361
+4637,313,Three hundred thirteen  ,Four thousand  six hundred thirty-seven  ,3210,2734,772
+5657,314,Three hundred fourteen  ,Five thousand  six hundred fifty-seven  ,5390,2470,4712
+5489,315,Three hundred fifteen  ,Five thousand  four hundred eighty-nine  ,1151,48,1621
+1905,316,Three hundred sixteen  ,One thousand  nine hundred five  ,1898,320,1225
+4836,317,Three hundred seventeen  ,Four thousand  eight hundred thirty-six  ,2319,3795,2754
+5231,318,Three hundred eighteen  ,Five thousand  two hundred thirty one  ,5171,1601,2812
+9421,319,Three hundred nineteen  ,Nine thousand  four hundred twenty one  ,5175,3976,8337
+108,320,Three hundred twenty  ,One hundred eight  ,44,68,2
+2201,321,Three hundred twenty one  ,Two thousand  two hundred one  ,708,512,165
+4172,322,Three hundred twenty-two  ,Four thousand  one hundred seventy-two  ,3639,3732,3030
+1090,323,Three hundred twenty-three  ,One thousand  ninety  ,988,745,1073
+4758,324,Three hundred twenty-four  ,Four thousand  seven hundred fifty-eight  ,448,4228,3016
+8699,325,Three hundred twenty-five  ,Eight thousand  six hundred ninety-nine  ,2019,6822,4104
+6756,326,Three hundred twenty-six  ,Six thousand  seven hundred fifty-six  ,165,3106,594
+4824,327,Three hundred twenty-seven  ,Four thousand  eight hundred twenty-four  ,343,2813,1608
+1387,328,Three hundred twenty-eight  ,One thousand  three hundred eighty-seven  ,541,339,572
+3087,329,Three hundred twenty-nine  ,Three thousand  eighty-seven  ,197,2302,1231
+7364,330,Three hundred thirty  ,Seven thousand  three hundred sixty-four  ,2973,3521,5107
+1675,331,Three hundred thirty one  ,One thousand  six hundred seventy-five  ,978,1602,1426
+4022,332,Three hundred thirty-two  ,Four thousand  twenty-two  ,2890,1315,4007
+3265,333,Three hundred thirty-three  ,Three thousand  two hundred sixty-five  ,242,410,2757
+5497,334,Three hundred thirty-four  ,Five thousand  four hundred ninety-seven  ,722,3088,4704
+8202,335,Three hundred thirty-five  ,Eight thousand  two hundred two  ,5444,827,1973
+9373,336,Three hundred thirty-six  ,Nine thousand  three hundred seventy-three  ,1895,8440,7737
+1404,337,Three hundred thirty-seven  ,One thousand  four hundred four  ,98,1248,1120
+9347,338,Three hundred thirty-eight  ,Nine thousand  three hundred forty-seven  ,3191,2252,2701
+2295,339,Three hundred thirty-nine  ,Two thousand  two hundred ninety-five  ,2088,296,1419
+9601,340,Three hundred forty  ,Nine thousand  six hundred one  ,9433,5791,7384
+1262,341,Three hundred forty one  ,One thousand  two hundred sixty-two  ,836,976,499
+1811,342,Three hundred forty-two  ,One thousand  eight hundred eleven  ,65,1596,610
+4388,343,Three hundred forty-three  ,Four thousand  three hundred eighty-eight  ,2040,730,1894
+2990,344,Three hundred forty-four  ,Two thousand  nine hundred ninety  ,2813,956,1725
+2108,345,Three hundred forty-five  ,Two thousand  one hundred eight  ,1297,1254,1911
+6659,346,Three hundred forty-six  ,Six thousand  six hundred fifty-nine  ,2787,1297,1584
+7696,347,Three hundred forty-seven  ,Seven thousand  six hundred ninety-six  ,2058,1761,7609
+7404,348,Three hundred forty-eight  ,Seven thousand  four hundred four  ,3213,2294,1184
+9719,349,Three hundred forty-nine  ,Nine thousand  seven hundred nineteen  ,4855,23,4940
+3185,350,Three hundred fifty  ,Three thousand  one hundred eighty-five  ,2540,1962,953
+4835,351,Three hundred fifty one  ,Four thousand  eight hundred thirty-five  ,3436,900,75
+3293,352,Three hundred fifty-two  ,Three thousand  two hundred ninety-three  ,2209,2978,1243
+1798,353,Three hundred fifty-three  ,One thousand  seven hundred ninety-eight  ,663,831,1715
+97,354,Three hundred fifty-four  ,Ninety-seven  ,66,38,35
+3081,355,Three hundred fifty-five  ,Three thousand  eighty one  ,2178,212,1091
+8599,356,Three hundred fifty-six  ,Eight thousand  five hundred ninety-nine  ,2545,6264,1068
+9904,357,Three hundred fifty-seven  ,Nine thousand  nine hundred four  ,1238,5605,7703
+9295,358,Three hundred fifty-eight  ,Nine thousand  two hundred ninety-five  ,6057,910,750
+6429,359,Three hundred fifty-nine  ,Six thousand  four hundred twenty-nine  ,1932,4645,5591
+8749,360,Three hundred sixty  ,Eight thousand  seven hundred forty-nine  ,694,7558,6598
+6526,361,Three hundred sixty one  ,Six thousand  five hundred twenty-six  ,2471,4224,5185
+3350,362,Three hundred sixty-two  ,Three thousand  three hundred fifty  ,3210,1704,3349
+3739,363,Three hundred sixty-three  ,Three thousand  seven hundred thirty-nine  ,365,1108,2562
+635,364,Three hundred sixty-four  ,Six hundred thirty-five  ,269,556,1
+9423,365,Three hundred sixty-five  ,Nine thousand  four hundred twenty-three  ,2146,4991,4515
+799,366,Three hundred sixty-six  ,Seven hundred ninety-nine  ,179,72,338
+1510,367,Three hundred sixty-seven  ,One thousand  five hundred ten  ,395,156,636
+3940,368,Three hundred sixty-eight  ,Three thousand  nine hundred forty  ,2082,1562,2476
+7752,369,Three hundred sixty-nine  ,Seven thousand  seven hundred fifty-two  ,626,4889,3169
+3577,370,Three hundred seventy  ,Three thousand  five hundred seventy-seven  ,2089,3402,250
+3491,371,Three hundred seventy one  ,Three thousand  four hundred ninety one  ,940,20,427
+5779,372,Three hundred seventy-two  ,Five thousand  seven hundred seventy-nine  ,3669,720,4146
+4136,373,Three hundred seventy-three  ,Four thousand  one hundred thirty-six  ,4090,996,1430
+913,374,Three hundred seventy-four  ,Nine hundred thirteen  ,151,642,723
+9977,375,Three hundred seventy-five  ,Nine thousand  nine hundred seventy-seven  ,2878,6484,5336
+4823,376,Three hundred seventy-six  ,Four thousand  eight hundred twenty-three  ,3980,1988,3427
+4307,377,Three hundred seventy-seven  ,Four thousand  three hundred seven  ,4019,2760,3030
+5026,378,Three hundred seventy-eight  ,Five thousand  twenty-six  ,2916,2025,3565
+3097,379,Three hundred seventy-nine  ,Three thousand  ninety-seven  ,458,1511,2969
+4203,380,Three hundred eighty  ,Four thousand  two hundred three  ,1313,3266,277
+5364,381,Three hundred eighty one  ,Five thousand  three hundred sixty-four  ,1604,132,332
+6373,382,Three hundred eighty-two  ,Six thousand  three hundred seventy-three  ,2347,4305,4582
+5319,383,Three hundred eighty-three  ,Five thousand  three hundred nineteen  ,4588,4651,2199
+1459,384,Three hundred eighty-four  ,One thousand  four hundred fifty-nine  ,926,208,501
+2232,385,Three hundred eighty-five  ,Two thousand  two hundred thirty-two  ,2188,2165,1666
+4470,386,Three hundred eighty-six  ,Four thousand  four hundred seventy  ,2268,4195,769
+2534,387,Three hundred eighty-seven  ,Two thousand  five hundred thirty-four  ,1014,1811,1059
+2243,388,Three hundred eighty-eight  ,Two thousand  two hundred forty-three  ,729,2233,2035
+2036,389,Three hundred eighty-nine  ,Two thousand  thirty-six  ,1212,2014,1094
+5439,390,Three hundred ninety  ,Five thousand  four hundred thirty-nine  ,4672,2925,2735
+7539,391,Three hundred ninety one  ,Seven thousand  five hundred thirty-nine  ,1631,4241,206
+7823,392,Three hundred ninety-two  ,Seven thousand  eight hundred twenty-three  ,6131,4109,7580
+8175,393,Three hundred ninety-three  ,Eight thousand  one hundred seventy-five  ,6445,2357,7791
+928,394,Three hundred ninety-four  ,Nine hundred twenty-eight  ,712,657,215
+4135,395,Three hundred ninety-five  ,Four thousand  one hundred thirty-five  ,573,2201,2685
+5795,396,Three hundred ninety-six  ,Five thousand  seven hundred ninety-five  ,2155,1848,5343
+3167,397,Three hundred ninety-seven  ,Three thousand  one hundred sixty-seven  ,2415,673,1717
+9317,398,Three hundred ninety-eight  ,Nine thousand  three hundred seventeen  ,6063,8938,2836
+4305,399,Three hundred ninety-nine  ,Four thousand  three hundred five  ,3389,2004,3319
+829,400,Four hundred  ,Eight hundred twenty-nine  ,341,505,716
+5711,401,Four hundred one  ,Five thousand  seven hundred eleven  ,3389,3189,5270
+5371,402,Four hundred two  ,Five thousand  three hundred seventy one  ,905,1428,3168
+5201,403,Four hundred three  ,Five thousand  two hundred one  ,4646,3347,2259
+1753,404,Four hundred four  ,One thousand  seven hundred fifty-three  ,1013,910,748
+891,405,Four hundred five  ,Eight hundred ninety one  ,742,728,685
+2396,406,Four hundred six  ,Two thousand  three hundred ninety-six  ,663,766,2044
+9523,407,Four hundred seven  ,Nine thousand  five hundred twenty-three  ,605,18,8488
+8920,408,Four hundred eight  ,Eight thousand  nine hundred twenty  ,5248,91,3073
+2540,409,Four hundred nine  ,Two thousand  five hundred forty  ,270,1241,1148
+2865,410,Four hundred ten  ,Two thousand  eight hundred sixty-five  ,1588,332,1103
+7677,411,Four hundred eleven  ,Seven thousand  six hundred seventy-seven  ,4075,1548,1677
+4325,412,Four hundred twelve  ,Four thousand  three hundred twenty-five  ,3063,3089,1936
+3449,413,Four hundred thirteen  ,Three thousand  four hundred forty-nine  ,2452,598,616
+2118,414,Four hundred fourteen  ,Two thousand  one hundred eighteen  ,1305,986,1430
+6171,415,Four hundred fifteen  ,Six thousand  one hundred seventy one  ,5591,5235,3819
+8160,416,Four hundred sixteen  ,Eight thousand  one hundred sixty  ,5831,7400,7361
+8714,417,Four hundred seventeen  ,Eight thousand  seven hundred fourteen  ,5748,3847,6147
+9353,418,Four hundred eighteen  ,Nine thousand  three hundred fifty-three  ,2161,5150,5066
+1789,419,Four hundred nineteen  ,One thousand  seven hundred eighty-nine  ,1346,500,1287
+4210,420,Four hundred twenty  ,Four thousand  two hundred ten  ,1008,232,3496
+2582,421,Four hundred twenty one  ,Two thousand  five hundred eighty-two  ,497,1171,973
+2421,422,Four hundred twenty-two  ,Two thousand  four hundred twenty one  ,1583,1976,1366
+4450,423,Four hundred twenty-three  ,Four thousand  four hundred fifty  ,1195,1973,2928
+9989,424,Four hundred twenty-four  ,Nine thousand  nine hundred eighty-nine  ,7605,3851,4315
+2180,425,Four hundred twenty-five  ,Two thousand  one hundred eighty  ,1919,712,580
+7691,426,Four hundred twenty-six  ,Seven thousand  six hundred ninety one  ,4612,4602,207
+3854,427,Four hundred twenty-seven  ,Three thousand  eight hundred fifty-four  ,1266,1739,2161
+8919,428,Four hundred twenty-eight  ,Eight thousand  nine hundred nineteen  ,465,8730,4360
+1484,429,Four hundred twenty-nine  ,One thousand  four hundred eighty-four  ,916,1157,525
+5513,430,Four hundred thirty  ,Five thousand  five hundred thirteen  ,900,4035,2215
+3805,431,Four hundred thirty one  ,Three thousand  eight hundred five  ,2908,764,2178
+787,432,Four hundred thirty-two  ,Seven hundred eighty-seven  ,395,217,202
+871,433,Four hundred thirty-three  ,Eight hundred seventy one  ,800,598,214
+2486,434,Four hundred thirty-four  ,Two thousand  four hundred eighty-six  ,185,814,321
+3370,435,Four hundred thirty-five  ,Three thousand  three hundred seventy  ,452,710,1048
+8121,436,Four hundred thirty-six  ,Eight thousand  one hundred twenty one  ,4838,3007,2960
+3417,437,Four hundred thirty-seven  ,Three thousand  four hundred seventeen  ,1414,1148,2844
+5284,438,Four hundred thirty-eight  ,Five thousand  two hundred eighty-four  ,1737,2455,4453
+2070,439,Four hundred thirty-nine  ,Two thousand  seventy  ,1467,198,1677
+7094,440,Four hundred forty  ,Seven thousand  ninety-four  ,1769,884,4029
+7462,441,Four hundred forty one  ,Seven thousand  four hundred sixty-two  ,4423,2500,1939
+7087,442,Four hundred forty-two  ,Seven thousand  eighty-seven  ,1782,2133,4477
+3295,443,Four hundred forty-three  ,Three thousand  two hundred ninety-five  ,157,64,1530
+9877,444,Four hundred forty-four  ,Nine thousand  eight hundred seventy-seven  ,7078,8463,6240
+2864,445,Four hundred forty-five  ,Two thousand  eight hundred sixty-four  ,2791,2624,669
+8455,446,Four hundred forty-six  ,Eight thousand  four hundred fifty-five  ,3809,3964,4575
+7820,447,Four hundred forty-seven  ,Seven thousand  eight hundred twenty  ,3884,2793,2699
+9920,448,Four hundred forty-eight  ,Nine thousand  nine hundred twenty  ,9485,4541,8335
+1683,449,Four hundred forty-nine  ,One thousand  six hundred eighty-three  ,840,1219,1368
+8168,450,Four hundred fifty  ,Eight thousand  one hundred sixty-eight  ,3664,6050,8073
+8355,451,Four hundred fifty one  ,Eight thousand  three hundred fifty-five  ,3597,5414,5535
+791,452,Four hundred fifty-two  ,Seven hundred ninety one  ,86,360,207
+3984,453,Four hundred fifty-three  ,Three thousand  nine hundred eighty-four  ,1891,2754,1470
+4183,454,Four hundred fifty-four  ,Four thousand  one hundred eighty-three  ,2934,1419,738
+4771,455,Four hundred fifty-five  ,Four thousand  seven hundred seventy one  ,73,1306,2771
+5744,456,Four hundred fifty-six  ,Five thousand  seven hundred forty-four  ,4150,92,1320
+6285,457,Four hundred fifty-seven  ,Six thousand  two hundred eighty-five  ,5268,4100,523
+8061,458,Four hundred fifty-eight  ,Eight thousand  sixty one  ,2413,3731,5221
+5084,459,Four hundred fifty-nine  ,Five thousand  eighty-four  ,3092,1694,16
+7407,460,Four hundred sixty  ,Seven thousand  four hundred seven  ,316,354,1968
+7032,461,Four hundred sixty one  ,Seven thousand  thirty-two  ,3997,1614,3591
+6743,462,Four hundred sixty-two  ,Six thousand  seven hundred forty-three  ,4935,1647,1506
+5806,463,Four hundred sixty-three  ,Five thousand  eight hundred six  ,2350,5340,1901
+2455,464,Four hundred sixty-four  ,Two thousand  four hundred fifty-five  ,1482,1302,141
+7346,465,Four hundred sixty-five  ,Seven thousand  three hundred forty-six  ,5786,7038,3792
+9235,466,Four hundred sixty-six  ,Nine thousand  two hundred thirty-five  ,5140,3313,943
+5779,467,Four hundred sixty-seven  ,Five thousand  seven hundred seventy-nine  ,2923,4606,1078
+1971,468,Four hundred sixty-eight  ,One thousand  nine hundred seventy one  ,1514,461,1183
+1274,469,Four hundred sixty-nine  ,One thousand  two hundred seventy-four  ,413,309,338
+2638,470,Four hundred seventy  ,Two thousand  six hundred thirty-eight  ,943,73,1902
+5552,471,Four hundred seventy one  ,Five thousand  five hundred fifty-two  ,3395,76,3169
+7723,472,Four hundred seventy-two  ,Seven thousand  seven hundred twenty-three  ,3091,4710,1099
+8459,473,Four hundred seventy-three  ,Eight thousand  four hundred fifty-nine  ,4824,7429,4408
+8385,474,Four hundred seventy-four  ,Eight thousand  three hundred eighty-five  ,1686,4056,4621
+2025,475,Four hundred seventy-five  ,Two thousand  twenty-five  ,1080,1349,445
+7130,476,Four hundred seventy-six  ,Seven thousand  one hundred thirty  ,4055,6460,3166
+1510,477,Four hundred seventy-seven  ,One thousand  five hundred ten  ,893,921,748
+9340,478,Four hundred seventy-eight  ,Nine thousand  three hundred forty  ,4429,8595,7125
+3254,479,Four hundred seventy-nine  ,Three thousand  two hundred fifty-four  ,450,995,2178
+3125,480,Four hundred eighty  ,Three thousand  one hundred twenty-five  ,1631,804,1370
+4,481,Four hundred eighty one  ,Four  ,1,2,2
+8624,482,Four hundred eighty-two  ,Eight thousand  six hundred twenty-four  ,4821,2641,4523
+6734,483,Four hundred eighty-three  ,Six thousand  seven hundred thirty-four  ,1201,6315,1348
+1729,484,Four hundred eighty-four  ,One thousand  seven hundred twenty-nine  ,696,1116,1111
+5649,485,Four hundred eighty-five  ,Five thousand  six hundred forty-nine  ,4954,3901,4242
+8256,486,Four hundred eighty-six  ,Eight thousand  two hundred fifty-six  ,4876,1455,6820
+1942,487,Four hundred eighty-seven  ,One thousand  nine hundred forty-two  ,483,151,279
+1525,488,Four hundred eighty-eight  ,One thousand  five hundred twenty-five  ,1372,413,214
+7430,489,Four hundred eighty-nine  ,Seven thousand  four hundred thirty  ,1733,3137,2241
+1643,490,Four hundred ninety  ,One thousand  six hundred forty-three  ,1150,293,529
+1663,491,Four hundred ninety one  ,One thousand  six hundred sixty-three  ,224,355,352
+1161,492,Four hundred ninety-two  ,One thousand  one hundred sixty one  ,1128,691,255
+8381,493,Four hundred ninety-three  ,Eight thousand  three hundred eighty one  ,4878,5654,1686
+1644,494,Four hundred ninety-four  ,One thousand  six hundred forty-four  ,145,1032,1579
+499,495,Four hundred ninety-five  ,Four hundred ninety-nine  ,408,107,270
+4008,496,Four hundred ninety-six  ,Four thousand  eight  ,3961,1726,3650
+2165,497,Four hundred ninety-seven  ,Two thousand  one hundred sixty-five  ,1454,357,1449
+6822,498,Four hundred ninety-eight  ,Six thousand  eight hundred twenty-two  ,4720,4954,4343
+6144,499,Four hundred ninety-nine  ,Six thousand  one hundred forty-four  ,3309,2856,623

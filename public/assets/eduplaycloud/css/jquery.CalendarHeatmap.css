@@ -1,0 +1,213 @@
+/*
+ *  calendarheatmap - v0.0.3
+ *  A simple Calendar Heatmap for jQuery.
+ *  https://github.com/SeBassTian23/CalendarHeatmap
+ *
+ *  Made by Sebastian Kuhlgert
+ *  Under MIT License
+ */
+.ch {
+  /*display: table !important;*/
+  clear: both;
+  overflow-x: auto;
+}
+@media screen and (max-width: 1199px){
+  .ch {overflow-x: auto;}
+  .ch-year {min-width: 950px;}
+}
+
+.ch-month,
+.ch-week-labels {
+  font-size: 0;
+  display: inline-block;
+  white-space: normal;
+  margin: 0 4px;
+  vertical-align: top;
+}
+.ch-week,
+.ch-day-labels {
+  display: inline-block;
+  width: 24px;
+  box-sizing: content-box;
+}
+.ch-day-labels {
+  width: inherit;
+  margin-right: 30px;
+}
+.ch-month-label {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  color: #212121;
+  font-size: 17px;
+  margin-bottom: 10px;
+}
+.ch-day-label {
+  text-align: left;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  color: #212121;
+  font-size: 11px;
+  display: block;
+  margin-bottom: 13px;
+  line-height: 11px;
+  box-sizing: content-box;
+  margin-top: 10px;
+}
+.ch-day {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  border: 1px solid rgba(0,0,0,0.40);
+  background-color: #e8edf1;
+  margin: -1px 0px -1px -1px;
+  box-sizing: content-box;
+}
+.ch-day.is-outside-month,
+.ch-lvl.is-outside-month,
+.ch-day.is-outside-month:hover,
+.ch-lvl.is-outside-month:hover {
+  background-color: transparent;
+  border-color: transparent;
+}
+.ch-day.lvl-0,
+.ch-lvl.lvl-0 {
+  background-color: #ffcdd2;
+}
+.ch-day.is-after-today,
+.ch-lvl.is-after-today {
+  background-color: #d9e3ea;
+}
+.ch-day.lvl-1,
+.ch-lvl.lvl-1 {
+  background-color: #a6c96a;
+}
+.ch-day.lvl-2,
+.ch-lvl.lvl-2 {
+  background-color: #5cb85c;
+}
+.ch-day.lvl-3,
+.ch-lvl.lvl-3 {
+  background-color: #009e47;
+}
+.ch-day.lvl-4,
+.ch-lvl.lvl-4 {
+  background-color: #00753a;
+}
+.ch-day:hover,
+.ch-lvl:hover {
+  border-color: #89a6ba;
+}
+.ch-legend {
+  padding-top: 10px;
+  text-align: right;
+}
+.ch-legend-left {
+  text-align: left !important;
+  padding-left: 98px;
+  margin-top: -20px;
+  margin-bottom: 50px;
+}
+@media screen and (max-width: 1199px){
+  .ch-legend-left {min-width: 525px;}
+}
+.ch-legend-center {
+  text-align: center !important;
+}
+.ch-legend:after {
+  content: ".";
+  display: block;
+  height: 0;
+  width: 0;
+  clear: both;
+  visibility: hidden;
+}
+.ch-lvls {
+  display: inline-block;
+  margin: 0;
+  counter-reset: my-badass-counter;
+  padding: 0;
+  list-style-type: none;
+  padding: 2px 9px 0 5px;
+}
+.ch-lvl {
+  width: 24px;
+  height: 24px;
+  float: left;
+  margin-left: 3px;
+  position: relative;
+  margin-right: 20px;
+}
+.ch-lvl:before {
+  content: counter(my-badass-counter);
+  counter-increment: my-badass-counter;
+  position: absolute;
+  right: -12px;
+  top: 4px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  color: #000;
+  font-weight: 600;
+}
+.blue-1 {background-color: #ffffcc !important;}
+.earth-1 {background-color: #f4ec15 !important;}
+.electric-1 {background-color: #ffeb3b !important;}
+.viridis-1 {background-color: #dde218 !important;}
+.picknick-1 {background-color: #dd2a91 !important;}
+.green-1 {background-color: #d1be5a !important;}
+.teal-1 {background-color: #becfb6 !important;}
+.red-1 {background-color: #deb7af !important;}
+.blue-2 {background-color: #41b6c4 !important;}
+.earth-2 {background-color: #86bf76 !important;}
+.electric-2 {background-color: #4caf50 !important;}
+.viridis-2 {background-color: #42bd70 !important;}
+.picknick-2 {background-color: #b14dec !important;}
+.green-2 {background-color: #5f900b !important;}
+.teal-2 {background-color: #7db28f !important;}
+.red-2 {background-color: #cf8371 !important;}
+.blue-3 {background-color: #0868ac !important;}
+.earth-3 {background-color: #117bd7 !important;}
+.electric-3 {background-color: #ff9800 !important;}
+.viridis-3 {background-color: #355c8c !important;}
+.picknick-3 {background-color: #2e8ebf !important;}
+.green-3 {background-color: #39811b !important;}
+.teal-3 {background-color: #107d79 !important;}
+.red-3 {background-color: #b63b25 !important;}
+.blue-4 {background-color: #253494 !important;}
+.earth-4 {background-color: #363299 !important;}
+.electric-4 {background-color: #f44336 !important;}
+.viridis-4 {background-color: #471164 !important;}
+.picknick-4 {background-color: #139863 !important;}
+.green-4 {background-color: #0d562c !important;}
+.teal-4 {background-color: #1c475d !important;}
+.red-4 {background-color: #90131c !important;}
+/**/
+.blue-5 {background-color: #e57373 !important;}
+.earth-5 {background-color: #e57373 !important;}
+.electric-5 {background-color: #e57373 !important;}
+.viridis-5 {background-color: #8df455 !important;}
+.picknick-5 {background-color: #073c28 !important;}
+.green-5 {background-color: #1bac59 !important;}
+.teal-5 {background-color: #09151e !important;}
+.red-5 {background-color: #e21a2c !important;}
+/**/
+.blue-6 {background-color: #ffb74d !important;}
+.earth-6 {background-color: #ffb74d !important;}
+.electric-6 {background-color: #ffb74d !important;}
+.viridis-6 {background-color: #ffb74d !important;}
+.picknick-6 {background-color: #ffb74d !important;}
+.green-6 {background-color: #ffb74d !important;}
+.teal-6 {background-color: #ffb74d !important;}
+.red-6 {background-color: #ffb74d !important;}
+.ch-week-label-col h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 17px;
+  color: #212121;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+.ch-weeks {
+  border: 1px solid #000000;
+  padding-right: 2px;
+}
+.ch-month {}

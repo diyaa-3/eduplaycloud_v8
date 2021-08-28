@@ -1,0 +1,56 @@
+/*
+Copyright (C) 2011 by MarkLogic Corporation
+Author: Mike Brevoort <mike@brevoort.com>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+*/
+.cm-s-QEdu-1 span.cm-keyword {line-height: 1em; font-weight: bold; color: #5A5CAD; }
+.cm-s-QEdu-1 span.cm-atom {color: #6C8CD5;}
+.cm-s-QEdu-1 span.cm-number {color: #164;}
+.cm-s-QEdu-1 span.cm-def {text-decoration:underline;}
+.cm-s-QEdu-1 span.cm-variable {color: black; }
+.cm-s-QEdu-1 span.cm-variable-2 {color:black;}
+.cm-s-QEdu-1 span.cm-variable-3 {color: black; }
+.cm-s-QEdu-1 span.cm-property {}
+.cm-s-QEdu-1 span.cm-operator {}
+.cm-s-QEdu-1 span.cm-comment {color: rgb(191, 200, 209); font-style: italic;}
+.cm-s-QEdu-1 span.cm-string {color: red;}
+.cm-s-QEdu-1 span.cm-meta {color: yellow;}
+.cm-s-QEdu-1 span.cm-qualifier {color: grey}
+.cm-s-QEdu-1 span.cm-builtin {color: #7EA656;}
+.cm-s-QEdu-1 span.cm-bracket {color: #cc7;}
+.cm-s-QEdu-1 span.cm-tag {color: #3F7F7F;}
+.cm-s-QEdu-1 span.cm-attribute {color: #7F007F;}
+.cm-s-QEdu-1 span.cm-error {color: #f00;}
+
+.cm-s-QEdu-1 .CodeMirror-activeline-background {background: #e8f2ff !important;}
+.cm-s-QEdu-1 .CodeMirror-matchingbracket {outline:1px solid grey;color:black !important;background:yellow;}
+
+
+.cm-s-QEdu-1 span.cm-level1 {color: black;text-decoration:underline;line-height: 2em; font-weight: bold;}
+.cm-s-QEdu-1 span.cm-level2 {color: #7F007F;font-style: italic;font-weight: bold;}
+.cm-s-QEdu-1 span.cm-level3 {color: #0080FF;}
+.cm-s-QEdu-1 span.cm-level4 {color: #7EA656;}
+.cm-s-QEdu-1 span.cm-attr {color: rgb(159, 172, 146);}
+.cm-s-QEdu-1 span.cm-plugin {color:  #7F007F;}
+
+.cm-s-QEdu-1 {
+    height:100%;
+
+}

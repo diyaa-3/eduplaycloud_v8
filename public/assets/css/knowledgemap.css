@@ -1,0 +1,485 @@
+/*----------------------------------------*/
+/*  2.  Knowledgemap CSS
+/*----------------------------------------*/
+
+
+span{
+    font-family: 'roboto';
+
+}
+
+.publishicon {
+    float: right;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    padding-left: 6px !important;
+    padding-right: 6px !important;
+    outline:none;
+    min-height: 15px;
+}
+
+.acceptreject {
+
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    padding-left: 7px !important;
+    padding-right: 0px !important;
+    outline:none;
+    min-height: 15px;
+    font-size: 14px;
+}
+
+
+code {
+
+    background: #A5D6A7;color: #000;
+}
+
+.div-skillcategory-child{
+
+    background-color: #4e6dbf;  border-radius: 5px;
+    padding:10px 10px 10px 5px;
+    margin-top: 10px;
+
+    font-size: 11px;
+
+}
+
+.div-skillcategory-child-title {
+    font-size: 15px;
+}
+
+.addnewskillbutton{
+     alignment: right;
+    border:solid 1.5px #00c6e0;
+    background-color:#00c4f9 ;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 8px 8px 8px 8px;
+    margin-bottom: 3px;
+
+}
+
+.publishbutton{
+    alignment: right;
+
+    background-color: #6284c3;
+    color: #fff;
+
+    border-radius: 12px;
+    padding: 5px 10px 5px 10px;
+
+}
+.delete-skill-category  {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    font-size: 16px;width:12px;
+
+}
+
+.li-skill{
+    list-style: none;
+    border:solid 0.75px #B1BACE;
+    border-radius: 5px;
+    background: url(spacer.png) center left no-repeat ;
+    margin-left:5px;
+    margin-top: 2px;
+    margin-bottom: 3px;
+    color: white;
+
+}
+.skill_child_div{
+    background-color: #4e6dbf; border-radius: 5px;
+
+    margin-right: -5px;
+   margin-bottom: 5px;
+    padding: 5px
+
+}
+.delete-skill{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    font-size: 16px;width:12px;
+
+
+}
+ul.nav-pills {
+    top: 120px;
+    position: page;
+
+    height: 500px; overflow-y: scroll;
+}
+
+
+ul.breadcrumb-edu li a.active-edu {
+    border-bottom:solid 3px #fe9f2e;
+}
+
+/* Style the list */
+ul.breadcrumb-edu {
+    list-style: none;
+}
+
+/* Display list items side by side */
+ul.breadcrumb-edu li {
+    display: inline;
+    font-size: 15px;
+    padding-right:20px;
+}
+ul.breadcrumb-edu li a.active-edu {
+    border-bottom:solid 3px #fe9f2e;
+}
+ul.breadcrumb-edu li a{
+    text-transform:uppercase;
+    color:#fff;
+    text-decoration:none;
+}
+.panel-heading  {border: 0;    background: linear-gradient(to right, #36d1dc, #5b86e5);color: #ffffff; margin-bottom: 10px}
+
+
+
+
+#deleteform {
+    display: inline-block;
+/ / Or display: inline;
+}
+
+#deleteskillcategorychildform{
+    display: inline-block;
+    float: right;
+}
+
+#deleteskillchildform {
+    display: inline-block;
+    float: right;
+    margin-right: 4px;
+}
+
+#deleteskillcategoryform{
+    display: inline-block;
+/ / Or display: inline;
+
+}
+
+body.dragging, body.dragging * {
+    cursor: move !important;
+}
+ol.vertical {
+    margin: 0 0 9px 0;
+    min-height: 10px;
+}
+/* line 13, /Users/jonasvonandrian/jquery-sortable/source/css/jquery-sortable.css.sass */
+ol.vertical li {
+    display: block;
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #cccccc;
+    color: #0088cc;
+    background: #eeeeee;
+}
+/* line 20, /Users/jonasvonandrian/jquery-sortable/source/css/jquery-sortable.css.sass */
+ol.vertical li.placeholder {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+/* line 25, /Users/jonasvonandrian/jquery-sortable/source/css/jquery-sortable.css.sass */
+ol.vertical li.placeholder:before {
+    position: absolute;
+    content: "";
+    width: 0;
+    height: 0;
+    margin-top: -5px;
+    left: -5px;
+    top: -4px;
+    border: 5px solid transparent;
+    border-left-color: red;
+    border-right: none;
+}
+.dragged {
+    position: absolute;
+    opacity: 0.5;
+    z-index: 2000;
+}
+ol.example li.placeholder {
+    position: relative;
+    /** More li styles **/
+}
+ol.example li.placeholder:before {
+    position: absolute;
+    /** Define arrowhead **/
+}
+.accordion {
+
+    color: #ffffff ;
+    cursor: pointer;
+    width: 100%;
+    opacity:1.0;
+    /*box-shadow:none;*/
+    min-height: 70px;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+    padding: 20px 10px 10px 15px;
+    margin: 10px 10px 0 0;
+    box-shadow: 5px 5px 10px rgba(57, 153, 179, 0.71);
+}
+.active, .accordion:hover {
+    background-color: #ccc;
+
+}
+.accordion:after {
+    content: '\025BE';
+    color: #ffffff;
+    font-size: 35px;
+    font-weight: bold ;
+    float: right;
+    margin-top: -20px;
+    margin-left: 5px;
+}
+.active:after {
+    content: "\025B4";
+}
+
+.accordion  a {
+    color: inherit;
+}
+.panel {
+
+    background-color: white;
+    margin: 0!important;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+nav ol {
+}
+#ol_categories {
+
+    height: 800px;
+   /* overflow: hidden;
+    overflow-y: scroll;*/
+
+
+}
+
+.affix {
+  /*  top: 20px;
+   z-index: 9999 !important;
+    height: 500px;
+    overflow: hidden;
+    overflow-y: scroll;*/
+}
+.form-horizontal .control-label {
+    text-align: left;
+    font-family: 'roboto';
+    font-weight: 400
+}
+.form-horizontal .form-group {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    margin-bottom: 5px;
+    text-align: left
+}
+.col-md-2 {
+    padding: 0 0 0 0px;
+}
+.col-md-3 {
+    padding: 0 0 0 10px;
+}
+.col-md-9 {
+    padding: 0 5px 0 5px
+}
+label {
+    font-weight: 500
+}
+.panel-body {
+    padding: 15px 0 15px 15px
+}
+.modal-content {
+    background-color: #f7f4f4;
+    box-shadow: #dddbdb
+}
+.panel {border: 0}
+
+
+
+
+/* Style the list */
+ul.breadcrumb-edu {
+    list-style: none;
+}
+
+/* Display list items side by side */
+ul.breadcrumb-edu li {
+    display: inline;
+    font-size: 15px;
+    padding-right:20px;
+}
+ul.breadcrumb-edu li a.active-edu {
+    border-bottom:solid 3px #fe9f2e;
+}
+ul.breadcrumb-edu li a{
+    text-transform:uppercase;
+    color:#fff;
+    text-decoration:none;
+}
+
+.addnewskillcategory {
+    alignment: right;
+    border:solid 1.5px #00c6e0;
+    background: none;
+    color: #00c6e0;
+    font-weight: bold;
+    border-radius: 15px;
+    padding: 7px 18px 5px 18px;
+
+    margin-top: 2px;
+}
+
+.addnewskillcategory2 {
+    alignment: right;
+    border:solid 1.5px #00c6e0;
+    background: none;
+    color: #00c6e0;
+    font-weight: bold;
+    border-radius: 15px;
+    padding: 7px 18px 5px 18px;
+    margin-bottom: 3px;
+
+}
+
+.scroll-list-collaboration{
+    height: 600px;
+    overflow-y: auto;
+    margin-right: 1px;
+
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.box-list-collaboration{
+
+
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+
+
+}
+
+.skill_cat_collaboration {
+
+color: white;
+margin-bottom: 10px !important;
+font-size: 15px;
+padding: 10px 10px 8px 15px;
+
+}
+
+.skill_cat_collaboration_first {
+
+    color: white;
+    margin-bottom: 10px !important;
+    font-size: 15px;
+    border-top-left-radius: 25px !important;
+    padding: 10px 10px 8px 15px;
+}
+.cat-footer{
+    font-size: 11px;
+    color: white;
+
+
+}
+.skill-cat-publish_status{
+    float:right;
+    background-color: white;
+    color: #40C1DE;
+    border-radius: 20px;
+    border:   solid 2px transparent;
+    text-align: center;
+    min-width: 75px;
+    min-height: 15px;
+    margin-right: 2px;
+    margin-left: 2px;
+}
+
+.skill-cat-approve_status{
+    float:right;
+
+    color: #ffffff;
+    border: white solid 2px;
+    margin-right: 2px;
+    margin-left: 2px;
+
+    border-radius: 20px;
+
+    text-align: center;
+    min-width: 75px;
+    min-height: 15px;
+
+}
+
+.skill-cat-btn{
+    float:right;
+    min-height: 15px;
+
+
+}
+.box-title{
+    display: inline; float: left; padding-top: 5px; color: #40C1DE !important;
+    font-size: 20px;
+}
+
+.skill-name-style {font-size: 16px}
+
+.skill-btn{
+    float:right;
+
+}
+
+.skill-cat-description {
+   color: #40C1DE;
+    font-size: 16px;
+
+}
+
+.neweditskill {
+
+    font-size: 12px;
+    color: #621a39;
+
+}
+
+.clear-padding-left-right {
+    padding-left: 0!important;
+    padding-right: 0!important;
+
+}
+
+.add-new-skill-button{
+    display: inline;  padding-right: 0%;
+    margin-bottom: 0px;
+    align-content: right;
+}
+
+
+
+

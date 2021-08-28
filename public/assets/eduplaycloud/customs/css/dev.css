@@ -1,0 +1,175 @@
+.error {
+    color: crimson !important;
+    font-size: 14px;
+}
+
+.error-message {
+    color: crimson !important;
+    font-size: 14px;
+}
+
+.reports #donutchart,
+.reports #chart {
+    width: 500px;
+    height: 500px;
+    font-family: Arial;
+}
+
+.reports #donutchart {
+    position: relative;
+}
+
+.reports #labelOverlay {
+    width: 90px;
+    height: 45px;
+    position: absolute;
+    top: 285px;
+    left: 240px;
+    text-align: center;
+    cursor: default;
+}
+
+.reports #labelOverlay p {
+    line-height: 0.3;
+    padding:0;
+    margin: 8px;
+}
+
+.reports #labelOverlay p.used-size {
+    line-height: 0.5;
+    font-size: 20pt;
+    color: #8e8e8e;
+}
+
+.reports #labelOverlay p.total-size {
+    line-height: 0.5;
+    font-size: 12pt;
+    color: #cdcdcd;
+}
+
+.reports .piecolor {
+    color: #009487 !important;
+}
+
+.blockUI h1 {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    margin-bottom: 0px;
+}
+
+.noData {
+    font-size: 12px !important;
+}
+
+.plain_bullets circle {
+    stroke: none;
+}
+
+.swc_red {
+    background-color: #FF4843;
+}
+
+.swc_light_yellow {
+    background-color: #FFE966;
+}
+
+.student_table .clickable-row {
+    cursor: pointer;
+}
+
+#profilePage .profile_persnol h6 {
+    word-break: break-all;
+}
+
+.pointer {
+    cursor: pointer;
+}
+/*.left_time_info {
+    background-color: #0003;
+}
+
+.right_gnrl_info {
+    background-color: #0003;
+}*/
+
+.crsr_p {cursor: pointer;}
+.crsr_p input[type="file"] {
+    cursor: pointer;
+    -webkit-appearance: radio;
+    width: 100%;
+    height: 100%;
+}
+
+.selected_star {
+    background-position: -416px -56px !important;
+}
+
+.borderRadius100 {
+    border-radius: 100%;
+}
+
+.blockUI {
+    z-index: 9999 !important;
+}
+
+.img_bx #output{
+    cursor: pointer;
+}
+
+.m3{
+    /* display: none !important; */
+}
+
+.invalid{
+    /* background-color: #ff6666 !important; */
+}
+
+.month_list table td {
+    cursor: pointer;
+}
+
+.month_list .noclick{
+    cursor: default;
+}
+
+.table .head_main td{
+    cursor: default;
+}
+
+.hide {
+    display: none;
+}
+.questn_circl{position: relative;}
+.questn_circl span{
+    color: #00b2f0;
+    position: absolute;
+    right: 0;
+    top: 10px;
+}
+.questn_circl input{padding-right: 20px;}
+.wd_100 {width: 100%;}
+.exe_close_name,.que_close_name,.skill_close_name,.closeBtn {
+    display: inline-block;
+    background-color: transparent;
+    border: none;
+    box-shadow: none !important;
+    outline: none !important;
+    cursor: pointer;
+    padding-right: 0;
+    padding-left: 4px;
+}
+.wizard .tb_rt_cntnt{
+    display: block !important;
+}
+.edit .tb_rt_cntnt{
+    display: block !important;
+}
+
+.initial_task .doneTask circle{
+    stroke: #00b2f0 !important;
+}
+
+.navigation_button_hide{
+  display: none !important;
+}

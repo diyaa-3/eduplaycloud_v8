@@ -1,0 +1,116 @@
+#img {
+    border-radius: 50%;
+    padding: 0;
+
+}
+
+.disipline-box-inline {
+    border-radius: 15px 0 15px 0;
+    margin: 0 0 15px 0;
+    background-color: #FBFBFB;
+    color:#7E7E7E;
+    box-shadow: 2px 4px 2px 0  #E0E0E0 ;
+    width: 100%;
+
+}
+#img img{border-radius: 15px 0 0 0;}
+
+.disipline_box{padding-left: 0;}
+.clear-line{clear: both}
+
+.lines-tags{padding: 0;position: absolute;bottom: 10px}
+
+#title {
+    border-radius: 7px;
+    font-color:rgb(34,197,247);
+    font-weight:bold;
+    background-color: rgb(245,245,245);
+    border: 1px solid #6c7a89;
+    padding: 20px;
+    width: 260px;
+    height: 170px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);
+
+
+
+}
+
+.discipine-text{
+    min-height: 157px;
+
+
+}
+.disipline_name{
+
+    font-size: 12px;
+    font-weight:bold;
+    color:#00a0d1;
+    padding: 33px 0 0 5px;
+}
+
+
+.disipline_descrption {
+    font-size: 11px;padding: 0 0 0 5px;color: #ffffff;float: left;
+}
+.discipline-boxes{padding: 3px 5px 3px 5px;text-align: center;font-size: 12px;float: left;margin: 10px 3px 0 0;color: #ffffff;}
+
+a.active-edu {
+    border-bottom:solid 3px #fe9f2e;
+}
+
+
+.form-auth{margin: 5px 0 5px 5px}
+
+
+.requestjoin {
+    background: #22c5f7;
+    float: right;
+    padding:0 0 0 10px;
+    position: absolute;
+    z-index: 999;
+    right: 25px;
+    top: 10px;
+    width: 35px;
+    height: 25px;
+    border-radius: 20px;
+}
+.requestjoin.text-requested {
+    background: #fda333;
+    padding:2px 0 0 10px;
+}
+
+.requestjoin.text-approve {
+    background: #06B806;
+    padding:2px 0 0 10px;
+}
+
+.requestjoin.text-decline {
+    background: #d6444b;
+    padding:2px 0 0 10px;
+
+}
+
+.text-requestjoin span {
+    top: -7px;
+    position: relative;
+    font-size: 9px;
+    text-transform: uppercase;
+}
+.one-long-line a {
+    float: right;
+    white-space:nowrap;
+    overflow:hidden;
+
+}
+
+.one-long-line a:hover {
+
+    width: 125px !important;
+    color: #fff !important;
+}
+
+a.discipline_link { color: #ffffff; text-decoration: none;font-size:22px;font-family: 'roboto'}
+a.discipline_link:link		{ color: #ffffff; text-decoration: none;font-size:22px ;}
+a.discipline_link:visited	{ color: #ffffff; text-decoration: none;font-size:22px ;}
+a.discipline_link:active	{ color: #ffffff; text-decoration: none;font-size:22px ;}
+a.discipline_link:hover		{ color: #c42027; text-decoration: none;font-size:22px ;}
